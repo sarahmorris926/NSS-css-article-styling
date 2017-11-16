@@ -1,4 +1,16 @@
-.header {
+header {
     border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
 
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    display: inline;
+    margin: 10px;
 }
