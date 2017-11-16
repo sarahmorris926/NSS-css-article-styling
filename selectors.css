@@ -22,3 +22,7 @@ header li {
 a .disabled {
     color: purple;
 }
+
+.active {
+    color: yellow;
+}
