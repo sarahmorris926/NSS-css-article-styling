@@ -14,3 +14,11 @@ header li {
     display: inline;
     margin: 10px;
 }
+
+.disabled {
+    color: grey;
+}
+
+a .disabled {
+    color: purple;
+}
