@@ -26,3 +26,11 @@ a .disabled {
 .active {
     color: yellow;
 }
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
